@@ -3,7 +3,7 @@
 # Input: TXT (key, value pairs)
 # Output: PREFIX
 # Tested with: PluMA 1.1, R 4.0.0
-# Dependency: Rtsne_0.15
+# Dependency: plspm_0.4.9, cowplot_1.1.1
 
 PluMA plugin to run Multi-Dimensional Scaling (MDS) (Cox et al, 2008) to determine, given
 two sets of data and the values of multiple observables in each set, how well the
