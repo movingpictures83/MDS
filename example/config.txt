@@ -1,0 +1,2 @@
+Prefix plugins/MDS/example
+Plugin MDS inputfile parameters.txt outputfile output.pdf

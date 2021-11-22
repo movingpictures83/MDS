@@ -1,0 +1,5 @@
+csvfile	mydata.csv
+features	features.txt
+categories	catfiles.txt
+k	2
+variables	12
